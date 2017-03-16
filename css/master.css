@@ -42,25 +42,66 @@ header h1, header h2, header h3, header h4, header h5, header h6 {
   right: 0;
   position: fixed;
   display: inline-block;
-  width: 300px;
+  width: 270px;
   height: 20px;
   border: 0;
   padding: 7px 10px 20px 0px;
   background-color: rgba(0, 0, 0, 0.2);
   flex: 1 100%; }
-  #contactSection a {
+  #contactSection button {
+    overflow: none;
+    outline: none;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
     background-color: rgba(64, 121, 189, 0);
-    transition: background-color .2s;
+    transition: background-color .2s, border-right .2s;
     color: #ffffff;
     text-decoration: none;
-    padding: 7px 15px 11px 15px;
+    padding: 10px 15px 11px 15px;
     margin: 0;
     vertical-align: middle;
     border: 0;
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
     font-size: 500;
     font-size: 22px; }
-  #contactSection a:hover {
+  #contactSection button:hover {
+    border-right: 1px solid rgba(255, 255, 255, 0);
     background-color: rgba(64, 121, 189, 0.7); }
+  #contactSection img {
+    width: 10%;
+    display: inline;
+    margin: 0 5px;
+    padding: 0 0px;
+    border: 0; }
+
+#contactImages {
+  padding: 5px 0 0 115px;
+  width: 250px; }
+
+#contactInformation {
+  display: none; }
+
+#additionalContact {
+  height: 0px;
+  width: 280px;
+  margin: 6px 0 0 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: height .4s; }
+  #additionalContact ul {
+    padding: 10px 10px 10px 20px;
+    margin: 0;
+    border: 0; }
+  #additionalContact li {
+    padding: 5px 0 0 0;
+    margin: 0;
+    border: 0;
+    list-style: none; }
+  #additionalContact a {
+    color: #ffffff;
+    text-decoration: none; }
+  #additionalContact a:hover {
+    text-decoration: underline; }
 
 nav {
   position: fixed;

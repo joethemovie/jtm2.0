@@ -41,6 +41,92 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/inc\/githubIcon.png": {
+		"ft": 32768,
+		"iS": 8713,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/githubIcon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/githubIconSprite.png": {
+		"ft": 32768,
+		"iS": 17193,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/githubIconSprite.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/inc\/icons.fla": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/icons.fla",
+		"oF": 0
+		},
+	"\/inc\/instagramIcon.png": {
+		"ft": 32768,
+		"iS": 8786,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/instagramIcon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/instagramIconSprite.png": {
+		"ft": 32768,
+		"iS": 95225,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/instagramIconSprite.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/inc\/linkedinIcon.png": {
+		"ft": 32768,
+		"iS": 5726,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/linkedinIcon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/linkedinIconSprite.png": {
+		"ft": 32768,
+		"iS": 11165,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/linkedinIconSprite.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/inc\/twitterIcon.png": {
+		"ft": 32768,
+		"iS": 8912,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/twitterIcon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/twitterIconSprite.png": {
+		"ft": 32768,
+		"iS": 30425,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/twitterIconSprite.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,

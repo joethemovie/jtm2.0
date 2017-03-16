@@ -43,26 +43,64 @@ header
   right: 0
   position: fixed
   display: inline-block
-  width: 300px
+  width: 270px
   height: 20px
   border: 0
   padding: 7px 10px 20px 0px
   background-color: rgba(0, 0, 0, 0.2)
   flex: 1 100%
-  a
+  button
+    overflow: none
+    outline: none
+    cursor: pointer
+    position: absolute
+    top: 0
     background-color: rgba(64, 121, 189, 0.0)
-    transition: background-color .2s
+    transition: background-color .2s, border-right .2s
     color: #ffffff
     text-decoration: none
-    padding: 7px 15px 11px 15px
+    padding: 10px 15px 11px 15px
     margin: 0
     vertical-align: middle
     border: 0
+    border-right: 1px solid rgba(255, 255, 255, 0.2)
     font-size: 500
     font-size: 22px
-  a:hover
+  button:hover
+    border-right: 1px solid rgba(255, 255, 255, 0.0)
     background-color: rgba(64, 121, 189, 0.7)
+  img
+    width: 10%
+    display: inline
+    margin: 0 5px
+    padding: 0 0px
+    border: 0
 
+#contactImages
+  padding: 5px 0 0 115px
+  width: 250px
+#contactInformation
+  display: none
+#additionalContact
+  height: 0px
+  width: 280px
+  margin: 6px 0 0 0
+  background-color: rgba(0, 0, 0, 0.5)
+  transition: height .4s
+  ul
+    padding: 10px 10px 10px 20px
+    margin: 0
+    border: 0
+  li
+    padding: 5px 0 0 0
+    margin: 0
+    border: 0
+    list-style: none
+  a
+    color: #ffffff
+    text-decoration: none
+  a:hover
+    text-decoration: underline
 // Nav styles
 nav
   position: fixed
