@@ -32,6 +32,62 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/css\/swiper.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/swiper.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/videoSkin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/videoSkin-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/audio.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/audio.psd",
+		"oF": 0
+		},
+	"\/inc\/audioActive.png": {
+		"ft": 32768,
+		"iS": 11043,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/audioActive.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/audioHover.png": {
+		"ft": 32768,
+		"iS": 9780,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/audioHover.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/audioStatic.png": {
+		"ft": 32768,
+		"iS": 5103,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/audioStatic.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/inc\/bgTest.jpg": {
 		"ft": 16384,
 		"iS": 252162,
@@ -41,12 +97,769 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/inc\/code\/bradInitial.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/bradInitial.html",
+		"oF": 0
+		},
+	"\/inc\/code\/joeF.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/joeF.html",
+		"oF": 0
+		},
+	"\/inc\/code\/mazdaOctoberEmail1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/mazdaOctoberEmail1.html",
+		"oF": 0
+		},
+	"\/inc\/code\/subaruInlined.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/subaruInlined.html",
+		"oF": 0
+		},
+	"\/inc\/code\/volvo5Traits.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/volvo5Traits.html",
+		"oF": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/iframe.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/volvo_blog_button\/iframe.html",
+		"oF": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/volvo_blog_button\/index.html",
+		"oF": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/lib\/ios-orientationchange-fix.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/lib\/ios-orientationchange-fix-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/lib\/jquery-2.1.0.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/lib\/jquery-2.1.0.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/master.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/master-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/master.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/master-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/mobile.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/mobile-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/mobile.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/volvo_blog_button\/mobile.html",
+		"oF": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/s90BG.jpg": {
+		"ft": 16384,
+		"iS": 2013240,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/s90BG.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/volvo_blog_button\/src\/css\/swipebox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/src\/css\/swipebox-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/src\/css\/swipebox.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/src\/css\/swipebox.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/src\/img\/icons.png": {
+		"ft": 32768,
+		"iS": 729,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/src\/img\/icons.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/volvo_blog_button\/src\/img\/icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/volvo_blog_button\/src\/img\/icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/src\/img\/loader.gif": {
+		"ft": 4194304,
+		"iS": 2608,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/src\/img\/loader.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/src\/js\/jquery.swipebox.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/src\/js\/jquery.swipebox-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/src\/js\/jquery.swipebox.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/src\/js\/jquery.swipebox.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/volvo_blog_button\/src\/js\/jquery.swipebox.mobile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvo_blog_button\/src\/js\/jquery.swipebox.mobile-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/volvoBlackFriday.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/volvoBlackFriday.html",
+		"oF": 0
+		},
+	"\/inc\/code\/volvoEmailPrev.png": {
+		"ft": 32768,
+		"iS": 76995,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/volvoEmailPrev.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/inc\/code\/volvoInvitation.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/volvoInvitation.html",
+		"oF": 0
+		},
+	"\/inc\/code\/weatherapp\/css\/master.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/weatherapp\/css\/master-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/weatherapp\/images\/blank.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/weatherapp\/images\/blank.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/weatherapp\/images\/cloudy.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/weatherapp\/images\/cloudy.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/weatherapp\/images\/cold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/weatherapp\/images\/cold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/weatherapp\/images\/hot.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/weatherapp\/images\/hot.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/weatherapp\/images\/rain.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/weatherapp\/images\/rain.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/weatherapp\/images\/snow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/weatherapp\/images\/snow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/weatherapp\/images\/warm.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/weatherapp\/images\/warm.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/weatherapp\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/weatherapp\/index.html",
+		"oF": 0
+		},
+	"\/inc\/code\/weatherapp\/js\/master.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/weatherapp\/js\/master-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/wikiapp\/css\/master.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/wikiapp\/css\/master-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/wikiapp\/inc\/search.png": {
+		"ft": 32768,
+		"iS": 13225,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/wikiapp\/inc\/search.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/wikiapp\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/wikiapp\/index.html",
+		"oF": 0
+		},
+	"\/inc\/code\/wikiapp\/js\/master.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/wikiapp\/js\/master-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/xc60\/2017Image.png": {
+		"ft": 32768,
+		"iS": 759618,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/2017Image.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/bottomcontent.png": {
+		"ft": 32768,
+		"iS": 62601,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/bottomcontent.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/elevenKOff.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc60\/elevenKOff.html",
+		"oF": 0
+		},
+	"\/inc\/code\/xc60\/elevenKOff.png": {
+		"ft": 32768,
+		"iS": 244993,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/elevenKOff.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/longViewButton.png": {
+		"ft": 32768,
+		"iS": 9286,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/longViewButton.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/s60Image.png": {
+		"ft": 32768,
+		"iS": 372446,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/s60Image.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/s80Image.png": {
+		"ft": 32768,
+		"iS": 418399,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/s80Image.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/s90Image.png": {
+		"ft": 32768,
+		"iS": 720475,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/s90Image.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/viewButton.png": {
+		"ft": 32768,
+		"iS": 3647,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/viewButton.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/xc60Blast.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc60\/xc60Blast.html",
+		"oF": 0
+		},
+	"\/inc\/code\/xc60\/xc60Header.png": {
+		"ft": 32768,
+		"iS": 751932,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/xc60Header.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/XC60HEADING.png": {
+		"ft": 32768,
+		"iS": 19477,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/XC60HEADING.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/xc60Mail.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc60\/xc60Mail.html",
+		"oF": 0
+		},
+	"\/inc\/code\/xc60\/xc60SuppoertingImg.png": {
+		"ft": 32768,
+		"iS": 233700,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/xc60SuppoertingImg.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/xc70Image.png": {
+		"ft": 32768,
+		"iS": 508559,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/xc70Image.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/xc90Group.png": {
+		"ft": 32768,
+		"iS": 1146967,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/xc90Group.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc60\/xc90Image.png": {
+		"ft": 32768,
+		"iS": 231224,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc60\/xc90Image.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc90App2\/css\/.sass-cache\/d79cb5e43c1bf37d5397a75a45aa06f37481c3bc\/master.sassc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc90App2\/css\/.sass-cache\/d79cb5e43c1bf37d5397a75a45aa06f37481c3bc\/master.sassc",
+		"oF": 0
+		},
+	"\/inc\/code\/xc90App2\/css\/bootstrap.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/css\/bootstrap.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/xc90App2\/css\/master.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/css\/master-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/xc90App2\/css\/master.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/css\/master.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/inc\/code\/xc90App2\/css\/normalize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/css\/normalize-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.eot",
+		"oF": 0
+		},
+	"\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.ttf",
+		"oF": 0
+		},
+	"\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.woff",
+		"oF": 0
+		},
+	"\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc90App2\/fonts\/glyphicons-halflings-regular.woff2",
+		"oF": 0
+		},
+	"\/inc\/code\/xc90App2\/inc\/acuraMDX.png": {
+		"ft": 32768,
+		"iS": 194502,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/inc\/acuraMDX.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc90App2\/inc\/bmwX5.png": {
+		"ft": 32768,
+		"iS": 216770,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/inc\/bmwX5.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc90App2\/inc\/fillerCar.png": {
+		"ft": 32768,
+		"iS": 44193,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/inc\/fillerCar.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc90App2\/inc\/hondaPilot.png": {
+		"ft": 32768,
+		"iS": 233647,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/inc\/hondaPilot.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc90App2\/inc\/RV.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc90App2\/inc\/RV.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/inc\/code\/xc90App2\/inc\/top_content_bar_clouds.png": {
+		"ft": 32768,
+		"iS": 1321372,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/inc\/top_content_bar_clouds.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc90App2\/inc\/xc90_comparison_bottom.png": {
+		"ft": 32768,
+		"iS": 1891669,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/inc\/xc90_comparison_bottom.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc90App2\/inc\/xc90_image.png": {
+		"ft": 32768,
+		"iS": 230096,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/inc\/xc90_image.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/code\/xc90App2\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/code\/xc90App2\/index.html",
+		"oF": 0
+		},
+	"\/inc\/code\/xc90App2\/js\/anime.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/js\/anime.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/xc90App2\/js\/bootstrap.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/js\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/xc90App2\/js\/jquery-3.1.0.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/js\/jquery-3.1.0.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/xc90App2\/js\/master.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/js\/master-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/code\/xc90App2\/js\/min\/master-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/inc\/code\/xc90App2\/js\/min\/master-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/inc\/codingBG.jpeg": {
+		"ft": 16384,
+		"iS": 1231138,
+		"oA": 0,
+		"oAP": "\/inc\/codingBG.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/codingBG.jpg": {
+		"ft": 16384,
+		"iS": 84923698,
+		"oA": 0,
+		"oAP": "\/inc\/codingBG.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/file.png": {
+		"ft": 32768,
+		"iS": 10987,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/file.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/inc\/file.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/file.psd",
+		"oF": 0
+		},
+	"\/inc\/fileActive.png": {
+		"ft": 32768,
+		"iS": 16641,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/fileActive.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/inc\/githubIcon.png": {
 		"ft": 32768,
 		"iS": 8713,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/githubIcon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/githubIconActive.png": {
+		"ft": 32768,
+		"iS": 8480,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/githubIconActive.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -61,10 +874,26 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/inc\/html.png": {
+		"ft": 32768,
+		"iS": 26061,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/html.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/inc\/icons.fla": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/inc\/icons.fla",
+		"oF": 0
+		},
+	"\/inc\/image.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/image.psd",
 		"oF": 0
 		},
 	"\/inc\/instagramIcon.png": {
@@ -73,6 +902,16 @@
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/instagramIcon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/instagramIconActive.png": {
+		"ft": 32768,
+		"iS": 40301,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/instagramIconActive.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -97,6 +936,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/inc\/linkedinIconActive.png": {
+		"ft": 32768,
+		"iS": 5525,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/linkedinIconActive.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/inc\/linkedinIconSprite.png": {
 		"ft": 32768,
 		"iS": 11165,
@@ -107,12 +956,48 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/inc\/musicNote.png": {
+		"ft": 32768,
+		"iS": 29280,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/musicNote.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/s90Prev.png": {
+		"ft": 32768,
+		"iS": 202647,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/s90Prev.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/test.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/test.mp4",
+		"oF": 0
+		},
 	"\/inc\/twitterIcon.png": {
 		"ft": 32768,
 		"iS": 8912,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/twitterIcon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/twitterIconActive.png": {
+		"ft": 32768,
+		"iS": 8617,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/twitterIconActive.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -125,6 +1010,74 @@
 		"oAP": "\/inc\/twitterIconSprite.png",
 		"oF": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/vidTest.jpeg": {
+		"ft": 16384,
+		"iS": 1773228,
+		"oA": 0,
+		"oAP": "\/inc\/vidTest.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/inc\/vidTest.jpg": {
+		"ft": 16384,
+		"iS": 284001,
+		"oA": 0,
+		"oAP": "\/inc\/vidTest.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/voice.jpeg": {
+		"ft": 16384,
+		"iS": 63643,
+		"oA": 0,
+		"oAP": "\/inc\/voice.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/inc\/voice.jpg": {
+		"ft": 16384,
+		"iS": 102972,
+		"oA": 0,
+		"oAP": "\/inc\/voice.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/voice\/escapePrev.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voice\/escapePrev.mp3",
+		"oF": 0
+		},
+	"\/inc\/voice\/test.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voice\/test.mp3",
+		"oF": 0
+		},
+	"\/inc\/weatherPrev.png": {
+		"ft": 32768,
+		"iS": 58460,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/weatherPrev.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/inc\/wikiPrev.png": {
+		"ft": 32768,
+		"iS": 72148,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/inc\/wikiPrev.png",
+		"oF": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/index.html": {
@@ -160,6 +1113,24 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/swiper.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/swiper.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/voiceOver.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/voiceOver-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/node_modules": {
 		"ft": 65536,
 		"oA": 2,
@@ -175,7 +1146,7 @@
 	"creationDate": 508738858,
 	"displayValue": "jtm2.0",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-obama"
+	"iconImageName": "meme-karate"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2023,7 +2994,7 @@
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",

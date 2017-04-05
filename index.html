@@ -4,47 +4,182 @@
     <meta charset="utf-8">
     <title>JOETHEMOVIE</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="css/swiper.min.css">
     <link rel="stylesheet" href="css/master.css">
     <script src="js/jquery.js" charset="utf-8"></script>
     <script src="node_modules/animejs/anime.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="node_modules/video.js/dist/video-js.css">
+    <link rel="stylesheet" href="css/videoSkin.css">
+    <script src="node_modules/video.js/dist/video.min.js" charset="utf-8"></script>
     <script src="js/master.js" charset="utf-8"></script>
   </head>
   <body>
-    <header>
-      <div id="siteHeader">
-        <h1>JOETHEMOVIE</h1>
-        <h4 id="subtext"></h4>
+    <div id="desktopContent">
+      <div id="bgTransition">
+
       </div>
-      <div id="contactSection">
-        <button id="contactButton">contact</button>
-        <div id="contactImages">
-          <img src="inc/githubIcon.png" alt="">
-          <img src="inc/instagramIcon.png" alt="">
-          <img src="inc/twitterIcon.png" alt="">
-          <img src="inc/linkedinIcon.png" alt="">
+      <header>
+        <div id="siteHeader">
+          <h1 id="jtmHeader">JOETHEMOVIE</h1>
+          <h4 id="subtext"></h4>
         </div>
-        <div id="additionalContact">
-          <div id="contactInformation">
-            <ul>
-              <li><a href="tel:8019415421">phone: 801-941-5421</a></li>
-              <li><a href="mailto:joe@joethemovie.com">email: joe@joethemovie.com</a></li>
+        <div id="contactSection">
+          <button id="contactButton">contact</button>
+          <div id="contactImages">
+            <a href="#"><img src="inc/githubIcon.png" alt=""></a>
+            <a href="#"><img src="inc/instagramIcon.png" alt=""></a>
+            <a href="#"><img src="inc/twitterIcon.png" alt=""></a>
+            <a href="#"><img src="inc/linkedinIcon.png" alt=""></a>
+          </div>
+          <div id="contactImages2">
+            <img src="inc/githubIconActive.png" alt="">
+            <img src="inc/instagramIconActive.png" alt="">
+            <img src="inc/twitterIconActive.png" alt="">
+            <img src="inc/linkedinIconActive.png" alt="">
+          </div>
+          <div id="additionalContact">
+            <div id="contactInformation">
+              <ul>
+                <li><a href="tel:8019415421">phone: 801-941-5421</a></li>
+                <li><a href="mailto:joe@joethemovie.com">email: joe@joethemovie.com</a></li>
+              </ul>
+            </div>
+
+        </div>
+      </header>
+      <nav>
+        <ul>
+          <li><a href="#" class="navLink" id="about">about</a></li>
+          <li><a href="#" class="navLink" id="code">code</a></li>
+          <li><a href="#" class="navLink" id="video">video</a></li>
+          <li><a href="#" class="navLink" id="voice">voice</a></li>
+        </ul>
+      </nav>
+      <div id="portfolioSection">
+
+<!-- Code Content -->
+
+        <div id="videoSection" class="sectionVis">
+          <div class="codeHead">
+          </div>
+          <div class="codeBody">
+            <div id="videoPlayer">
+              <video id="video" class="video-js" controls preload="auto" width="380" height="300"
+              poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
+                <source src="inc/test.mp4" type='video/mp4'>
+                <p class="vjs-no-js">
+                  To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video.
+                </p>
+              </video>
+              <script src="http://vjs.zencdn.net/5.19.1/video.js"></script>
+            </div>
+          </div>
+        </div>
+        <div id="codingSection" class="sectionVis">
+          <div class="codeHead">
+
+          </div>
+          <div class="codeBody">
+            <div class="codeBaseline">
+              Work samples will open in a new tab.
+            </div>
+
+            <ul id="codeExamples">
+              <li>
+                <a href="inc/code/volvoInvitation.html" target="_blank" ><img src="inc/code/volvoEmailPrev.png" alt=""><br>volvoInv.html</a>
+              </li>
+
+              <li>
+                <a href="inc/code/volvo_blog_button/index.html" target="_blank" ><img src="inc/s90Prev.png" alt=""><br>volvoImg.html</a>
+              </li>
+
+              <li>
+                <a href="inc/code/weatherapp/index.html" target="_blank" ><img src="inc/weatherPrev.png" alt=""><br>weather.html</a>
+              </li>
+
+              <li>
+                <a href="inc/code/wikiapp/index.html" target="_blank" ><img src="inc/wikiPrev.png" alt=""><br>wikiApp.html</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+
+<!-- Voiceover Content -->
+        <div id="voiceSection" class="sectionVis">
+          <div class="codeHead">
+
+          </div>
+          <div class="codeBody">
+            <div class="codeContents">
+              <audio src="" controls id="audioPlayer">
+                Sorry, Your browser doesn't support HTML5.
+              </audio>
+            </div>
+            <ul id="playlist">
+              <li class="current-song">
+                <a href="inc/voice/escapePrev.mp3"><img src="inc/audioStatic.png" alt=""><br>fullSpot.mp3</a>
+              </li>
+
+              <li>
+                <a href="inc/voice/test.mp3"><img src="inc/audioStatic.png" alt=""><br>test.mp3</a>
+              </li>
             </ul>
           </div>
-
+        </div>
       </div>
-    </header>
-    <nav>
-      <ul>
-        <li><a href="#" id="about">about</a></li>
-        <li><a href="#" id="code">code</a></li>
-        <li><a href="#" id="design">design</a></li>
-        <li><a href="#" id="video">video</a></li>
-        <li><a href="#" id="voice">voice</a></li>
-      </ul>
-    </nav>
-    <div class="portfolioSection">
-
-
     </div>
+
+    <div id="mobileContent">
+      <!-- Mobile Content -->
+       <div class="swiper-container">
+           <div class="swiper-wrapper">
+               <div class="swiper-slide">
+                <div class="texting">
+                  <h1>About</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+
+               </div>
+
+
+               <div class="swiper-slide">
+                 <h1>code</h1>
+
+               </div>
+
+
+               <div class="swiper-slide">
+                 <h1>design</h1>
+
+               </div>
+
+
+               <div class="swiper-slide">
+                 <h1>video</h1>
+
+               </div>
+
+
+               <div class="swiper-slide">
+                 <h1>voice</h1>
+
+               </div>
+
+
+           </div>
+       </div>
+    </div>
+    <!-- Swiper JS -->
+    <script src="js/swiper.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper = new Swiper('.swiper-container');
+    </script>
+    <script src="js/voiceOver.js" charset="utf-8"></script>
+    <script type="text/javascript">
+      audioPlayer();
+    </script>
   </body>
 </html>
