@@ -99,4 +99,11 @@ let buttonTest = false;
       $('#bgTransition').delay(500).fadeOut(400);
     }, 300);
   });
+
+  $('.videoContent').click(function(e){
+    e.preventDefault();
+    console.log( $(this).find('img').attr('data-media'));
+    $("#videoPlayer_html5_api")[0].src = $(this).find('img').attr('data-media');
+    $("#videoPlayer_html5_api").get(0).play();
+  });
 });
