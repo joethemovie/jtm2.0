@@ -18,6 +18,8 @@
   font-size: 10px;
   /* The main font color changes the ICON COLORS as well as the text */
   color: #000;
+  text-align: center;
+  margin: 0 auto;
 }
 
 /* The "Big Play Button" is the play button that shows before the video plays.
@@ -44,7 +46,8 @@
   /* Align center */
   left: 50%;
   top: 50%;
-  margin: auto;
+  text-align: center;
+  margin: 0 auto;
 }
 
 /* The default color of control backgrounds is mostly black but with a little
@@ -56,12 +59,15 @@
   background-color: #000;
   /* Opacity: 1.0 = 100%, 0.0 = 0% */
   background-color: #fff;
+  text-align: center;
+  margin: 0 auto;
 }
 
 /* Slider - used for Volume bar and Progress bar */
 .video-js .vjs-slider {
   background-color: #000;
   background-color: rgba(0, 0, 0, 0.5);
+
 }
 
 /* The slider bar color is used for the progress bar and the volume bar
@@ -75,16 +81,31 @@
 /* The main progress bar also has a bar that shows how much has been loaded. */
 .video-js .vjs-load-progress {
   /* For IE8 we'll lighten the color */
-  background: #000;
+  background: rgba(200, 20, 20, 0.5);
   /* Otherwise we'll rely on stacked opacities */
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(200, 20, 20, 0.5);
 }
 
 /* The load progress bar also has internal divs that represent
    smaller disconnected loaded time ranges */
 .video-js .vjs-load-progress div {
   /* For IE8 we'll lighten the color */
-  background: #000;
+  background: rgba(200, 20, 20, 0.5);
   /* Otherwise we'll rely on stacked opacities */
-  background: rgba(0, 0, 0, 0.75);
+  background: rgba(200, 20, 20, 0.5);
 }
+video {
+  background: #fff;
+  text-align: center;
+  margin: 0 auto;
+ }
+ .vjs-poster {
+   background-color: #fff;
+ }
+ .video-js, .vjs-big-play-button {
+   color: #fff;
+   -webkit-transition: all .3s;
+   -moz-transition: all .3s;
+   -o-transition: all .3s;
+   transition: all .3s;
+ }

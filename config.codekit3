@@ -7,7 +7,7 @@
 		"uuidString": "911E1FFE-5A20-4F48-9CB6-78BCF9FA857E"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/css\/master.css": {
 		"aP": 1,
@@ -42,6 +42,16 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/css\/videoSkin-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/videoSkin-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/css\/videoSkin.css": {
 		"aP": 1,
 		"bl": 0,
@@ -61,31 +71,34 @@
 	"\/inc\/audioActive.png": {
 		"ft": 32768,
 		"iS": 11043,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/audioActive.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/audioHover.png": {
 		"ft": 32768,
 		"iS": 9780,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/audioHover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/audioStatic.png": {
 		"ft": 32768,
 		"iS": 5103,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/audioStatic.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/bgTest.jpg": {
@@ -94,6 +107,7 @@
 		"oA": 0,
 		"oAP": "\/inc\/bgTest.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -198,6 +212,7 @@
 		"oA": 0,
 		"oAP": "\/inc\/code\/volvo_blog_button\/s90BG.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -224,11 +239,12 @@
 	"\/inc\/code\/volvo_blog_button\/src\/img\/icons.png": {
 		"ft": 32768,
 		"iS": 729,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/volvo_blog_button\/src\/img\/icons.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/volvo_blog_button\/src\/img\/icons.svg": {
@@ -285,11 +301,12 @@
 	"\/inc\/code\/volvoEmailPrev.png": {
 		"ft": 32768,
 		"iS": 76995,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/volvoEmailPrev.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/volvoInvitation.html": {
@@ -406,11 +423,12 @@
 	"\/inc\/code\/wikiapp\/inc\/search.png": {
 		"ft": 32768,
 		"iS": 13225,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/wikiapp\/inc\/search.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/wikiapp\/index.html": {
@@ -431,21 +449,23 @@
 	"\/inc\/code\/xc60\/2017Image.png": {
 		"ft": 32768,
 		"iS": 759618,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/2017Image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/bottomcontent.png": {
 		"ft": 32768,
 		"iS": 62601,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/bottomcontent.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/elevenKOff.html": {
@@ -457,61 +477,67 @@
 	"\/inc\/code\/xc60\/elevenKOff.png": {
 		"ft": 32768,
 		"iS": 244993,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/elevenKOff.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/longViewButton.png": {
 		"ft": 32768,
 		"iS": 9286,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/longViewButton.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/s60Image.png": {
 		"ft": 32768,
 		"iS": 372446,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/s60Image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/s80Image.png": {
 		"ft": 32768,
 		"iS": 418399,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/s80Image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/s90Image.png": {
 		"ft": 32768,
 		"iS": 720475,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/s90Image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/viewButton.png": {
 		"ft": 32768,
 		"iS": 3647,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/viewButton.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/xc60Blast.html": {
@@ -523,21 +549,23 @@
 	"\/inc\/code\/xc60\/xc60Header.png": {
 		"ft": 32768,
 		"iS": 751932,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/xc60Header.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/XC60HEADING.png": {
 		"ft": 32768,
 		"iS": 19477,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/XC60HEADING.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/xc60Mail.html": {
@@ -549,41 +577,45 @@
 	"\/inc\/code\/xc60\/xc60SuppoertingImg.png": {
 		"ft": 32768,
 		"iS": 233700,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/xc60SuppoertingImg.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/xc70Image.png": {
 		"ft": 32768,
 		"iS": 508559,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/xc70Image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/xc90Group.png": {
 		"ft": 32768,
 		"iS": 1146967,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/xc90Group.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc60\/xc90Image.png": {
 		"ft": 32768,
 		"iS": 231224,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc60\/xc90Image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc90App2\/css\/.sass-cache\/d79cb5e43c1bf37d5397a75a45aa06f37481c3bc\/master.sassc": {
@@ -672,41 +704,45 @@
 	"\/inc\/code\/xc90App2\/inc\/acuraMDX.png": {
 		"ft": 32768,
 		"iS": 194502,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc90App2\/inc\/acuraMDX.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc90App2\/inc\/bmwX5.png": {
 		"ft": 32768,
 		"iS": 216770,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc90App2\/inc\/bmwX5.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc90App2\/inc\/fillerCar.png": {
 		"ft": 32768,
 		"iS": 44193,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc90App2\/inc\/fillerCar.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc90App2\/inc\/hondaPilot.png": {
 		"ft": 32768,
 		"iS": 233647,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc90App2\/inc\/hondaPilot.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc90App2\/inc\/RV.svg": {
@@ -722,31 +758,34 @@
 	"\/inc\/code\/xc90App2\/inc\/top_content_bar_clouds.png": {
 		"ft": 32768,
 		"iS": 1321372,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc90App2\/inc\/top_content_bar_clouds.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc90App2\/inc\/xc90_comparison_bottom.png": {
 		"ft": 32768,
 		"iS": 1891669,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc90App2\/inc\/xc90_comparison_bottom.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc90App2\/inc\/xc90_image.png": {
 		"ft": 32768,
 		"iS": 230096,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/code\/xc90App2\/inc\/xc90_image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/code\/xc90App2\/index.html": {
@@ -806,6 +845,7 @@
 		"oA": 0,
 		"oAP": "\/inc\/codingBG.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -815,17 +855,19 @@
 		"oA": 0,
 		"oAP": "\/inc\/codingBG.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/inc\/file.png": {
 		"ft": 32768,
 		"iS": 10987,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/file.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/file.psd": {
@@ -837,51 +879,56 @@
 	"\/inc\/fileActive.png": {
 		"ft": 32768,
 		"iS": 16641,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/fileActive.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/githubIcon.png": {
 		"ft": 32768,
 		"iS": 8713,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/githubIcon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/githubIconActive.png": {
 		"ft": 32768,
 		"iS": 8480,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/githubIconActive.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/githubIconSprite.png": {
 		"ft": 32768,
 		"iS": 17193,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/githubIconSprite.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/html.png": {
 		"ft": 32768,
 		"iS": 26061,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/html.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/icons.fla": {
@@ -899,81 +946,89 @@
 	"\/inc\/instagramIcon.png": {
 		"ft": 32768,
 		"iS": 8786,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/instagramIcon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/instagramIconActive.png": {
 		"ft": 32768,
 		"iS": 40301,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/instagramIconActive.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/instagramIconSprite.png": {
 		"ft": 32768,
 		"iS": 95225,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/instagramIconSprite.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/linkedinIcon.png": {
 		"ft": 32768,
 		"iS": 5726,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/linkedinIcon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/linkedinIconActive.png": {
 		"ft": 32768,
 		"iS": 5525,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/linkedinIconActive.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/linkedinIconSprite.png": {
 		"ft": 32768,
 		"iS": 11165,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/linkedinIconSprite.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/musicNote.png": {
 		"ft": 32768,
 		"iS": 29280,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/musicNote.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/s90Prev.png": {
 		"ft": 32768,
 		"iS": 202647,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/s90Prev.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/test.mp4": {
@@ -985,31 +1040,45 @@
 	"\/inc\/twitterIcon.png": {
 		"ft": 32768,
 		"iS": 8912,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/twitterIcon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/twitterIconActive.png": {
 		"ft": 32768,
 		"iS": 8617,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/twitterIconActive.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/twitterIconSprite.png": {
 		"ft": 32768,
 		"iS": 30425,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/twitterIconSprite.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/inc\/videoPrev.png": {
+		"ft": 32768,
+		"iS": 4785,
+		"oA": 0,
+		"oAP": "\/inc\/videoPrev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/vidTest.jpeg": {
@@ -1018,6 +1087,7 @@
 		"oA": 0,
 		"oAP": "\/inc\/vidTest.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
@@ -1027,6 +1097,7 @@
 		"oA": 0,
 		"oAP": "\/inc\/vidTest.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1036,6 +1107,7 @@
 		"oA": 0,
 		"oAP": "\/inc\/voice.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
@@ -1045,6 +1117,7 @@
 		"oA": 0,
 		"oAP": "\/inc\/voice.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1060,24 +1133,68 @@
 		"oAP": "\/inc\/voice\/test.mp3",
 		"oF": 0
 		},
+	"\/inc\/voiceover\/athletesRutersVO.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voiceover\/athletesRutersVO.wav",
+		"oF": 0
+		},
+	"\/inc\/voiceover\/overarchingRutgersVO.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voiceover\/overarchingRutgersVO.wav",
+		"oF": 0
+		},
+	"\/inc\/voiceover\/rutgersVO.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voiceover\/rutgersVO.wav",
+		"oF": 0
+		},
+	"\/inc\/voiceover\/rutgersVOAtheletic2.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voiceover\/rutgersVOAtheletic2.wav",
+		"oF": 0
+		},
+	"\/inc\/voiceover\/rutgersVOOver2.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voiceover\/rutgersVOOver2.wav",
+		"oF": 0
+		},
+	"\/inc\/voiceover\/rutgersVOrake1.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voiceover\/rutgersVOrake1.wav",
+		"oF": 0
+		},
+	"\/inc\/voiceover\/rutgersVOtake2.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/voiceover\/rutgersVOtake2.wav",
+		"oF": 0
+		},
 	"\/inc\/weatherPrev.png": {
 		"ft": 32768,
 		"iS": 58460,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/weatherPrev.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/inc\/wikiPrev.png": {
 		"ft": 32768,
 		"iS": 72148,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/inc\/wikiPrev.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/index.html": {
@@ -1085,6 +1202,29 @@
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/js\/audiojs\/audio.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/audiojs\/audio.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/audiojs\/audiojs.swf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/js\/audiojs\/audiojs.swf",
+		"oF": 0
+		},
+	"\/js\/audiojs\/player-graphics.gif": {
+		"ft": 4194304,
+		"iS": 4499,
+		"oA": 0,
+		"oAP": "\/js\/audiojs\/player-graphics.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/js\/jquery.js": {
 		"ft": 64,
@@ -1927,8 +2067,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -1947,7 +2087,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -2106,6 +2246,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -2151,7 +2295,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -2179,7 +2323,7 @@
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -2235,12 +2379,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -2248,18 +2392,18 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true}"
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -2395,7 +2539,7 @@
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -2930,14 +3074,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -2994,13 +3130,13 @@
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {

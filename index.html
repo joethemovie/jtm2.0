@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="node_modules/video.js/dist/video-js.css">
     <link rel="stylesheet" href="css/videoSkin.css">
     <script src="node_modules/video.js/dist/video.min.js" charset="utf-8"></script>
+    <script src="js/audiojs/audio.min.js"></script>
     <script src="js/master.js" charset="utf-8"></script>
   </head>
   <body>
@@ -57,12 +58,12 @@
       </nav>
       <div id="portfolioSection">
 
-<!-- Code Content -->
+<!-- Video Content -->
 
 
             <div id="videoSection" class="sectionVis">
               <video id="videoPlayer" class="video-js" controls preload="auto" width="956" height="346"
-              poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
+              poster="inc/videoPrev.png" data-setup="{}">
                 <source src="inc/test.mp4" type='video/mp4'>
                 <p class="vjs-no-js">
                   To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video.
@@ -78,10 +79,10 @@
               </ul>
             </div>
 
-        <div id="codingSection" class="sectionVis">
-          <div class="codeHead">
+<!-- Coding Content -->
 
-          </div>
+        <div id="codingSection" class="sectionVis">
+          
           <div class="codeBody">
             <div class="codeBaseline">
               Work samples will open in a new tab.
@@ -110,15 +111,9 @@
 
 <!-- Voiceover Content -->
         <div id="voiceSection" class="sectionVis">
-          <div class="codeHead">
 
-          </div>
           <div class="codeBody">
-            <div class="codeContents">
-              <audio src="" controls id="audioPlayer">
-                Sorry, Your browser doesn't support HTML5.
-              </audio>
-            </div>
+
             <ul id="playlist">
               <li class="current-song">
                 <a href="inc/voice/escapePrev.mp3"><img src="inc/audioStatic.png" alt=""><br>fullSpot.mp3</a>
@@ -128,6 +123,12 @@
                 <a href="inc/voice/test.mp3"><img src="inc/audioStatic.png" alt=""><br>test.mp3</a>
               </li>
             </ul>
+
+            <div class="codeContents">
+              <audio src="" id="audioPlayer">
+                Sorry, Your browser doesn't support HTML5.
+              </audio>
+            </div>
           </div>
         </div>
       </div>
@@ -173,6 +174,12 @@
            </div>
        </div>
     </div>
+    <!-- Audio JS -->
+    <script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+    </script>
     <!-- Swiper JS -->
     <script src="js/swiper.min.js"></script>
 
